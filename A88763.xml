@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The late eclipse unclasped: or the mistaken star-gazers unmasked. VVherein is manifested seven severall reasons whereby these astrolegers have deceived the people. / By a learned divine neere London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88763</idno>
+            <idno type="STC">Wing L546</idno>
+            <idno type="STC">Thomason E659_20</idno>
+            <idno type="STC">ESTC R35345</idno>
+            <idno type="EEBO-CITATION">99872411</idno>
+            <idno type="PROQUEST">99872411</idno>
+            <idno type="VID">166123</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166123)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The late eclipse unclasped: or the mistaken star-gazers unmasked. VVherein is manifested seven severall reasons whereby these astrolegers have deceived the people. / By a learned divine neere London.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year, that many did fear, that Doomes-day it was nigh: but now we do see, what star-gazers be, for they have fore-told a lye,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title-page woodcuts.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Solar eclipses --  1652 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166123:1" rendition="simple:additions"/>
+            <p>THE LATE Eclipſe unclaſped:</p>
+            <p>Or the mistaken Star-gazers <hi>UNMASKED.</hi>
+            </p>
+            <p>VVherein is manifeſted ſeven ſeve<g ref="char:EOLhyphen"/>
+               <hi>rall Reaſons whereby theſe Aſtrolegers</hi> have deceived the People. By a learned <hi>Divine neere London.</hi>
+            </p>
+            <figure>
+               <figure/>
+               <q>O! B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other Star-gazer, what ſhall we doe?</q>
+               <figure/>
+            </figure>
+            <q>
+               <bibl>Iſa. 47. 13, 14.</bibl>
+               <p>Let now the Aſtrologers, Stargazers, and monethly Prognoſticators ſtand up and ſave thee; But they ſhall not be able to ſave themſelves.</p>
+            </q>
+            <lg>
+               <l>Printed in the year, that many did feare,</l>
+               <l>that Doomes-day it was nigh:</l>
+               <l>But now we do ſee, what Star-gazers be,</l>
+               <l>for they have fore-told a Lye.</l>
+            </lg>
+            <p>1652.</p>
+            <pb facs="tcp:166123:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166123:2"/>
+            <epigraph>
+               <bibl>TEXT, Mark 13. 24:</bibl>
+               <q>But in thoſe dayes, after that tribulation, the Sun ſhall be darkned, and the Moone ſhall not give her light.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Fore-going Verſes ſhew the deſtruction of <hi>Jeruſalem,</hi> from whence <hi>Chriſt</hi> makes a Tranſſition of the deſtruction of the World.</p>
+            <p>The Connexion of the Suns eclips, with the words, <hi>in thoſe daies after the Tribulation,</hi> doe make all time to preſent with God, becauſe time is not fluent to God, but alwaies fixed; and becauſe God
+<pb n="2" facs="tcp:166123:3"/>
+would have us to wait for the Laſt Day, every day.</p>
+            <p>Concerning the Suns darkneſſe, ſome Expo<g ref="char:EOLhyphen"/>ſitors expound it Miſtically, and ſome Alle<g ref="char:EOLhyphen"/>gorically, as <hi>Ezek.</hi> 32. Chap. Is an elegant ex<g ref="char:EOLhyphen"/>preſſion of <hi>Pharoahs</hi> deſtruction; So by an E<g ref="char:EOLhyphen"/>clipſe, they would underſtand the miſerable e<g ref="char:EOLhyphen"/>vents in the World, either by great perplexity on mens minds, or a darkning of the Truth by Errour and Hereſie.</p>
+            <p>But it is a Rule in Divinitie, where there is no neceſſity of a figurative conſtruction, there the Litterall ſence may ſtand, and therefore the words aſ the Text are to be underſtood lit<g ref="char:EOLhyphen"/>telally; yet a Myſticall ſence is not quite exclu<g ref="char:EOLhyphen"/>ded, but from an accurate conſideration of the viſible Signes which ſhall be in the Sun and the Moon, it cannot be figuratively applyed to a ge<g ref="char:EOLhyphen"/>nerall Apoſtacie from the true Faith; or a per<g ref="char:EOLhyphen"/>plexity on mens mindes, becauſe Chriſt doth diſtinguiſh between Tribulation of time, and the times of perplexity on mens minds, <hi>Luke</hi> 21. 24.</p>
+            <p>The beſt Interpreters though they underſtand theſe words litterally, yet denie not, but by Gods Ordination they may have a Metaphyſi<g ref="char:EOLhyphen"/>call Interpretation, as the Rainbow, though it proceed from a Naturall Cauſe, yet <hi>God</hi> deſign<g ref="char:EOLhyphen"/>ed it to a Spirituall uſe, <hi>viz.</hi> to ſignifie the Co<g ref="char:EOLhyphen"/>venant
+<pb n="3" facs="tcp:166123:3"/>
+between <hi>God</hi> and all fleſh, <hi>Gen.</hi> 9. So that the concurrence of Divine Providence is not ſeen nor conſidered in the World, becauſe <hi>Aſtronomers</hi> may foreſee Eclipſes from Natu<g ref="char:EOLhyphen"/>rall Cauſes, both by Rules of Art, and alſo be<g ref="char:EOLhyphen"/>cauſe they have been from the Creation.</p>
+            <p>The Eclipſe at <hi>Chriſts</hi> death was Praeturna<g ref="char:EOLhyphen"/>turall in two reſpects. Firſt, becauſe the Moon was then at the full, then the <hi>Paſſeover</hi> was kept on the fourteenth day of the Moneth, and therefore the Moone was at the fartheſt diſt<g ref="char:EOLhyphen"/>ance from the Sun. And ſecondly, becauſe that Eclipſe continued for three houres with<g ref="char:EOLhyphen"/>out increaſe or decreaſe of darkneſſe, which is contrary to other Eclipſes.</p>
+            <p>
+               <hi>Lucian</hi> a Martyr made the ſaid Eclipſe an argument to convince the <hi>Heathen</hi> of their In<g ref="char:EOLhyphen"/>fidelity, and to bring them to repentance.</p>
+            <p>At the death of <hi>Charles</hi> the Great, in the year 814. was a moſt horrid Eclipſe, by reaſon of a fuliginous matter ariſing out of the Earth. And in <hi>Anno</hi> 1575. there appeared a new Starre which <hi>Aſtronomers</hi> never knew before; there<g ref="char:EOLhyphen"/>fore towards the end of the World God can ſhew prodigious Sgnes as fore-runners of his comming to judgement: and the terrifying of mens mindes at this time, which is not uſuall in other Eclipſes, confirmes this Eclipſe to be prodigious.</p>
+            <p>
+               <pb n="4" facs="tcp:166123:4"/>
+When the eyes of the body grow dim, it is a ſigne of death approaching, as in <hi>Eccleſi.</hi> 12. ſo when the Eye of of the World, the Sun grows darke, it is a ſigne the world is neere confuſion.</p>
+            <p>Let us not think that ordinary things in na<g ref="char:EOLhyphen"/>ture have no extraordinary ſignification in the mind of God; for God ſpeakes ſome-what to the world from naturall bodies, as <hi>Micah</hi> 6.9. <hi>The Lords voyce cryeth to tae City, &amp;c. heare ye the Rod, &amp;c.</hi>
+            </p>
+            <p>I conceive that ordinary Eclipſes are by <hi>Chriſt</hi> ordained, to fore-tell his comming to Judge<g ref="char:EOLhyphen"/>ment, for the ſignes praedicting the deſtruction of <hi>Jeruſalem</hi> were naturall, and why may not <hi>Chriſt</hi> deale ſo with the World now?</p>
+            <p>
+               <hi>Chriſt</hi> doth not call them prodigious, but only ſignes, which have a riſe out of nature, and are not hyperphyſicall: And <hi>Chriſt</hi> ſayes not that any one of theſe ſignes, ſingly conſidered, are ſignes of his comming, but all theſe joyntly to<g ref="char:EOLhyphen"/>gether; ſo that Eclipſes, and roaring of the Sea, conjunctively conſidered, doe fore-tell <hi>Chriſts</hi> comming.</p>
+            <p>
+               <label>Obſervation,</label> Is there any aptneſſe in the eclipſe of the Sun to fore-tell <hi>Chriſts</hi> comming to judge<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>I anſwer, Gods clouding of light, ſeemes contrary to his owne inſtitution, ſo that an eclipſe may ſeeme proeternaturall; therefore in Eclipſes the</hi>
+               <pb n="5" facs="tcp:166123:4"/>
+Heathens <hi>uſed to heat Baſins, and Kettles, and to make a great noiſe to aw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken the Sun when it was eclipſed: and in reſpect of the alteration whi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> may fall out among men, this Eclipſe is very fear<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>full, for in</hi> Anno. 1645. <hi>followed the ſweating ſickneſſe here in</hi> England, <hi>whereof many thouſands dyed; and prrſently after that, the diſeaſe called the</hi> Scurvy; <hi>ſo that which hath an aptneſſe to cauſe great changes, may Prognoſticate Doomes-day.</hi>
+            </p>
+            <p>Secondly, An Eclipſe may ſingnifie the fu<g ref="char:EOLhyphen"/>ture condition of wicked men, to be caſt into utter darkneſſe, and ſeparated forever from the true light God.</p>
+            <p>
+               <label>Queſt.</label> But what ſhall wee think of this pre<g ref="char:EOLhyphen"/>ſent Eclipſe?</p>
+            <p>
+               <label>Anſwer,</label> 
+               <hi>Wee are not to neglect the influences of it, becauſe it is a great work of God, and very vi<g ref="char:EOLhyphen"/>ſible to our eyes; now God ſpeakes of his own great Works,</hi> Pſalm. 111. 19, <hi>He hath made a Taber<g ref="char:EOLhyphen"/>nacle for the Sunne. And God acconts that man a Foole that will not heed bis Works,</hi> Pſalm. 92. 2. <hi>and in</hi> Iſa. 5. 12. <hi>God ſpeakes againſt ſuch as drink away their feare, and make merry, but regard not the works of his hands.</hi>
+            </p>
+            <p>Now God ſets this Signe over our heads, and makes the <hi>Sun</hi> to be a more propper Sig<g ref="char:EOLhyphen"/>nificator to <hi>England,</hi> than any other part of <hi>Europe;</hi> therefore we ought to take ſpeciall no<g ref="char:EOLhyphen"/>tice of <hi>Gods</hi> Acts in this matter, ſince our Fa<g ref="char:EOLhyphen"/>thers
+<pb n="6" facs="tcp:166123:5"/>
+never knew the like; For whereas the <hi>Sun</hi> is divided into twelve parts, to morrow there will be but halfe a part of the twelve vi<g ref="char:EOLhyphen"/>ſible to our ſight.</p>
+            <p>Againe, in reſpect of the Conjuncture of time: it is now a time of Change, Danger, and Trouble, at home, and abroad: and alſo a time of moſt grievous ſinnes, as Blaſphemy, Perjurie, Libertiſme, Oppreſſion, Pride, Sen<g ref="char:EOLhyphen"/>ſuality, Errour, and Heriſies, theſe may make us to ſhake at the ſhaking of a Leafe, much more, when God ſhakes his Rod over a Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>In <hi>Philoſophie,</hi> thoſe things may be profitable in the Generall, which are not in the particu<g ref="char:EOLhyphen"/>lar, as Froſtie weather is good for the Earth, but it is pinching to Man; but I never read of any good effect that followed an Eclipſe.</p>
+            <p>But as the <hi>Jewes</hi> were enjoyned to make Battlements in building their Houſes to pre<g ref="char:EOLhyphen"/>ſervemen from falling: ſo muſt Minniſters give warning to their Auditors, what thoughts to entertaine concerning the events of Eclipſes, that they be not diſtracted with Curioſity, or Stupidity: but to conceive with Chriſtian con<g ref="char:EOLhyphen"/>ſideration of ſome great change to enſue; but whether this change will be from Health to Sickneſſe, from Liberty to Slavery, from Truth to Hereſie, or from Peace to Warre and De<g ref="char:EOLhyphen"/>ſtruction;
+<pb n="7" facs="tcp:166123:5"/>
+I will not take upon me to Divine or fore-tell; for fooliſh people give more credit to judiciary <hi>Aſtrologers,</hi> then to Gods Word; but Gods Miniſters may averre, that it is not in the power of any <hi>Aſtrologer</hi> to foretell what the Events or Influence of this Eclipſe will be in particular.</p>
+            <p>
+               <label>Objection.</label>
+               <lb/>
+But doe we not finde by experience, and Hi<g ref="char:EOLhyphen"/>ſtories doe confirme it, that <hi>Aſtrologers</hi> have often-times ſpoken truth and fore-told events, as one fore-told that <hi>Nero</hi> ſhould be Emperour, and ſhould murther his owne Mother, and ano<g ref="char:EOLhyphen"/>ther fore-told that <hi>Auguſtus</hi> ſhould be Lord o<g ref="char:EOLhyphen"/>ver the whole World, and another praedicted that <hi>Picus Mirandula</hi> a very learned man ſhould die in the thirty three yeare of his age, and ſo he did.</p>
+            <p>
+               <label>Anſwer.</label>
+               <lb/>
+               <hi>Grant they doe tell truth ſometimes, but how falſe are they ten times for once telling truth? and al<g ref="char:EOLhyphen"/>beit they may ſpeake truth, yet it is not out of rules of Art, but out of ſeven falſe waies they may <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roe<g ref="char:EOLhyphen"/>dict future events.</hi>
+            </p>
+            <list>
+               <item>As Firſt<g ref="char:punc">▪</g>
+Out of a ſecret communion with the Divell in their Spirits, though the Party himſelfe knowes not the power of the Divell working
+<pb n="8" facs="tcp:166123:6"/>
+in him and ſo <hi>Ambroſe, Auſtin,</hi> and <hi>Origien</hi> d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e affirme, that by a ſecret impulſe of the Divell, they may diſcloſe Events.</item>
+               <item>II.
+Out of a Naturall Magick; as <hi>Thales</hi> the Philoſopher, from the conſideration of Wa<g ref="char:EOLhyphen"/>ters then abounding, did fore-tell a great plen<g ref="char:EOLhyphen"/>ty of Oyle in the World; and the <hi>Aegyptians,</hi> from the obſervation of the Ebbing and Flow<g ref="char:EOLhyphen"/>ing of <hi>Nilus,</hi> could fore-tell Plenty or Scarcity.</item>
+               <item>III.
+They doe oftentimes fore-tell things, where<g ref="char:EOLhyphen"/>in they themſelves are Actors, as in caſe of Marriage: when they are well rewarded for telling of a good Fortune to befall a Per<g ref="char:EOLhyphen"/>ſon by ſuch a Match, they will labour to bring it to paſſe, and ſo it falls out.</item>
+               <item>IV.
+When a thing is doubtfull how it will fall out, they may gueſſe at that Contingence which is moſt probable: and ſo Old Men and Women may foretell by hap-hazard.</item>
+               <item>V.
+Becauſe they ſpeake in an Ambiguous ſenſe, and ſo deceive the People: and ſo the Divells Oracles at <hi>Delphos</hi> threatned many thouſands in Old-time.</item>
+               <item>
+                  <pb n="9" facs="tcp:166123:6"/>
+VI.
+From a naturall Segacity and obſervation of a Perſons temper, and diſpoſition, they may gueſſe what will befall him.</item>
+               <item>VII.
+From an over Credulity in the Conſultors with theſe <hi>Aſtrologers:</hi> as if one were to fight a Duell, the <hi>Aſtrologer</hi> tels him he ſhall have the victory: and here-upon the Conſulter hath his courage heightned and ſo prevailes.</item>
+            </list>
+            <p>By theſe ſeven falſe Wayes, and not by Rules of Art, Events are fore-told many times.</p>
+            <p>Let us now make Holy uſe of this Eclipſe, by conſidering it as a fore-runner of Doomes<g ref="char:EOLhyphen"/>day; and let us know, that He that Eclipſes the Sun now, will ere long, take the Sun quite from us, or us from the Sun.</p>
+            <p>And let the goodneſſe of God in admoniſh<g ref="char:EOLhyphen"/>ing us by Signes and Tokens of the generall Judgement, make deepe impreſſion on our Spirits.</p>
+            <p>
+               <hi>Chriſt</hi> gives warning to the World by his Sword, as well as by his Word.</p>
+            <p>Now <hi>Chriſt</hi> is ſaid to weare his Sword three wayes.</p>
+            <p>Firſt, his Sword is girt to his Thigh, import<g ref="char:EOLhyphen"/>ing that he is ready to avenge himſelfe upon the ungodly, <hi>Pſalm.</hi> 45.3.</p>
+            <p>
+               <pb n="10" facs="tcp:166123:7"/>
+Secondly, He is ſaid to have a Sword in his Mouth, <hi>Revel.</hi> 1. 16<g ref="char:punc">▪</g> and this is his threat<g ref="char:EOLhyphen"/>ning Sword.</p>
+            <p>Thirdly, He is ſaid to have his Sword in his Hand, <hi>Pſalm.</hi> 7. 12. to kill and ſlay. Now his Sword in his Mouth, he threatens, and to mor<g ref="char:EOLhyphen"/>row he will ſhake it over our heads.</p>
+            <p>This Eclipſe affords matter of Meditation.</p>
+            <list>
+               <item>
+                  <p>I,
+Concerning the Nature of Sinne; For if darkneſſe (which is no phyſicall Entity, but a privation of Light) be ſo uncomfortable to Senſe: how Odious and Diſconſolate a thing is Sinne which is a privation of the Light of <hi>Gods</hi> Countenance, even the very life of the Soule.</p>
+                  <p>Secondly, conſider that as the <hi>Sun</hi> is not the cauſe of the darkneſſe which will be to mor<g ref="char:EOLhyphen"/>row <hi>(which is Black-monday, as our Aſtrologers is pleaſed to call it ſo<g ref="char:punc">▪</g>)</hi> in our Horizon, but the Moone, by reaſon of the interpoſition between the Body of the Sun and our ſight; So <hi>God</hi> is not the cauſe of Sinne, which is the dark<g ref="char:EOLhyphen"/>neſſe of the Soule: neither can there be any ef<g ref="char:EOLhyphen"/>ficient, but a deficient cauſe of Sinne, but Sinne being as it were interpoſed between <hi>God</hi> and the Soule, hinders the light of his Grace;
+<pb n="11" facs="tcp:166123:7"/>
+Againe, it is ſaid <hi>Iſa.</hi> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9. 2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> have made a <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> between God and your Soules.</hi>
+                  </p>
+               </item>
+               <item>II.
+A ſecond Meditation may be much of the miſery of the Creature, when God hides his Face from it; for all our Strength and Joy is from the Light of Gods Countenance: <hi>God</hi> therefore tels <hi>Moſes<g ref="char:punc">▪</g>
+                  </hi> Deut. 31. 17. <hi>That He would hide his Face from the Iſraelites;</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the hiding of <hi>Gods</hi> Face from the Soule, is the Suburbs of Hell<hi>:</hi> and perplexity without the Light of <hi>Gods</hi> Countenance, is but a Curſe, And if it be ſo ſad a thing to want the light of the <hi>Sun</hi> for a few houres, what a wofull thing is it to endure everlaſting darkneſſe in Hell.</item>
+               <item>III.
+A third Meditation may ariſe from <hi>Chriſts</hi> Death; then was the <hi>Sun</hi> of Righteouſneſſe Eclipſed, when <hi>Chriſts</hi> ſuffering fleſh was in<g ref="char:EOLhyphen"/>terpoſed between the Deity and the Eye of fleſh; but as the <hi>Sun</hi> in the Firmament ſuffers nothing at all by an Eclipſe, nor is robbed of the leaſt part of his brightneſſe: no more did <hi>Chriſts</hi> Deity ſuffer the leaſt Diminution of Glory: for all the Paſſion fell on the Humane Nature. And as the <hi>Sun</hi> to morrow <hi>(as the Aſtrologers calls Black-monday.)</hi> after the Eclipſe
+<pb n="12" facs="tcp:166123:8"/>
+will be brighter then before, ſo <hi>Chriſts</hi> Body after his Reſurrection, was more vige<g ref="char:EOLhyphen"/>rous than before.</item>
+               <item>IV.
+This Eclipſe may be to our Meditation, as an Emblem of theſe Apoſtaticall times, where<g ref="char:EOLhyphen"/>in <hi>Gods</hi> Truth may be darkned with Hereſies, and Perſecution; And this ſhould be matter of griefe to us, that it ſhould come to paſſe in our dayes.</item>
+               <item>V.
+We ſhould ſtudy thankfulneſſe for the <hi>Suns</hi> light, and the benefit we enjoy by it; For if we be troubled at the abſence of it, how great a bleſſing is the enjoying of it?</item>
+            </list>
+            <list>
+               <item>
+                  <label>Vſe.</label>
+This ſhould teach us to avoid all Superſti<g ref="char:EOLhyphen"/>ous feare in reſpect of <hi>Aſtrologers</hi> Praedicti<g ref="char:EOLhyphen"/>ons: for <hi>God</hi> forbids us to be afraid of the Signes of Heaven, <hi>Jer.</hi> 10. 2. But yet it is good alwayes to have a feare of Evitation, but not a feare of Deſperation.</item>
+               <item>II.
+It is a dangerous thing to be regardleſſe of of the opperation of Gods hands; therefore let the feare of <hi>God</hi> be alwayes that Spirituall Antidote againſt the feare of all changes and events of the world.</item>
+               <item>
+                  <pb n="13" facs="tcp:166123:8"/>
+III.
+And as we ought not ſlaviſhly to be afraid of their <hi>Praedictions,</hi> ſo we ought not to put any confidence in their cunning; For the Lord upbraideth the <hi>Iſraelites</hi> with their confidence in their <hi>Aſtrologers, Iſa.</hi> 47. 13. <hi>Let now,</hi> (ſaith God) <hi>the Aſtrologers, Star-gazers, and monethly Prognoſticators ſtand up and ſave thee;</hi> and verſe 13. <hi>God tels them they ſhould not deliver them<g ref="char:EOLhyphen"/>ſelves;</hi> for <hi>Balaam</hi> that great <hi>Sorcerer,</hi> who was ſlaine with the Sword, could not fore-ſee his owne <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to believe <hi>Aſtrologers.</hi>
+               </item>
+               <item>IV.
+And ſet not your affections on things be<g ref="char:EOLhyphen"/>neath Eclipſes; For ſickneſſe, or caſualties may deprive us of all outward things in a mo<g ref="char:EOLhyphen"/>ment; but to a pious Soule, as Croſſes abound, ſo Comforts abound, 1 <hi>Cor.</hi> 1. 7. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> your <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> blotted out in the ſenſe of your Conſcience, and then no Trouble or Calamity will make you diſmaid; For as that which is written with the juice of Lemmons is not legible, unleſſe you hold it to the fire; ſo if your ſins doe remaine unblotted out of the Book of Conſcience at the time of Death, Hell-fire will make all the Sinnes that ever a Man hath committed in his life
+<pb n="14" facs="tcp:166123:9"/>
+legible and plaine to him, and what a gaſtly ſight will that be.</item>
+            </list>
+            <p>Let us feare <hi>Solem Juſtitice,</hi> the Sonne of righ<g ref="char:EOLhyphen"/>teouſneſſe, and then wee ſhall not feare the Suns influence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
